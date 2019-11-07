@@ -10,14 +10,14 @@ body{
    
 }
 .header{
-    background: gray;
+    background: white;
     width: 100%;
     height: 200px;
     float: left;
    
 }
 .content{
-    background: darkred;
+    background: white;
     width: 100%;
     height: 1500px;
     float: left;
@@ -25,44 +25,44 @@ body{
     
 }
 .right {
-    background: chartreuse;
+    background: white;
     width: 60%;
     height: 1500px;
     float: left;
     padding: 10px;
 }
 .right-0{
-    background: oldlace;
+    background: white;
     width: 100%;
     height: 700px;
     float: left;
 }
 .right-1 {
-    background: oldlace;
+    background: white;
     width: 100%;
     height: 50px;
     float: left;
 }
 .right-2{
-    background: darkred;
+    background: white;
     width: 100%;
     height: 200px;
     float: left;
 }
 .right-22{
-    background: darkviolet;
+    background: white;
     width: 30%;
     height: 200px;
     float: left;
 }
 .right-222{
-    background: dodgerblue;
+    background: white;
     width: 70%;
     height: 200px;
     float: left;
 }
 .right-3{
-    background: orange;
+    background: white;
     width: 100%;
     height: 200px;
     float: left;
@@ -71,16 +71,16 @@ body{
     width: 30%;
     height: 200px;
     float: left;
-    background: khaki;
+    background: white;
 }
 .right-333{
     width: 70%;
     height: 200px;
     float: left;
-    background: lawngreen;
+    background: white;
 }
 .right-4{
-    background: orangered;
+    background: white;
     width: 100%;
     height: 200px;
     float: left;
@@ -89,16 +89,16 @@ body{
     width: 30%;
     height: 200px;
     float: left;
-    background: lightcoral;
+    background: white;
 }
 .right-444{
     width: 70%;
     height: 200px;
     float: left;
-    background: lightslategrey;
+    background: white;
 }
 .right-00{
-    background: gray;
+    background: white;
     width: 100%;
     height: 800px;
     float: left;
@@ -107,161 +107,161 @@ body{
     width: 100%;
     height: 50px;
     float: left;
-    background: lime;
+    background: white;
 }
 .right-6{
     width: 100%;
     height: 250px;
     float: left;
-    background: magenta;
+    background: white;
 }
 .right-66{
     width: 30%;
     height: 250px;
     float: left;
-    background:aqua
+    background:white;
 }
 .right-666{
     width: 70%;
     height: 250px;
     float: left;
-    background:aliceblue
+    background:white;
 }
 .right-7{
     width: 100%;
     height: 250px;
     float: left;
-    background: mediumseagreen;
+    background: white;
 }
 .right-77{
     width: 30%;
     height: 250px;
     float: left;
-    background:khaki
+    background:white;
 }
 .right-777{
     width: 70%;
     height: 250px;
     float: left;
-    background:violet
+    background:white;
 }
 .right-8{
     width: 100%;
     height: 250px;
     float: left;
-    background: navy;
+    background: white;
 }
 .right-88{
     width: 30%;
     height: 250px;
     float: left;
-    background:limegreen
+    background:white;
 }
 .right-888{
     width: 70%;
     height: 250px;
     float: left;
-    background:teal
+    background:white;
 }
 .left {
-    background: royalblue;
+    background: white;
     width: 40%;
     height: 1500px;
     float: left;
 }
 .left-1{
-    background: pink;
+    background: white;
     width: 100%;
-    height: 260px;
+    height: 250px;
     float: left;
 }
 .left-2{
-    background: wheat;
+    background: white;
     width: 100%;
     height: 550px;
     float: left;
 }
 .footer{
-    background: deeppink;
+    background: white;
     width: 100%;
     height: 300px;
     float: left;
    padding: 10px;
 }
 .footer-1{
-    background: rosybrown;
+    background: white;
     width: 30%;
     height: 300px;
     float: left;
 }
 .footer-11{
-    background: sienna;
+    background: white;
     width: 100%;
     height:50px;
     float: left;
 }
 .footer-12{
-    background: salmon;
+    background: white;
     width: 100%;
     height:120px;
     float: left;
 }
 .footer-13{
-    background: navy;
+    background: white;
     width: 100%;
     height:120px;
     float: left;
 }
 
 .footer-2{
-    background: tan;
+    background: white;
     width: 30%;
     height: 300px;
     float: left;
 }
 .footer-21{
-    background: tomato;
+    background: white;
     width: 120%;
     height: 50px;
     float: left;
 }
 .footer-22{
-    background: antiquewhite;
+    background: white;
     width: 100%;
     height:120px;
     float: left;
 }
 .footer-23{
-    background: salmon;
+    background: white;
     width: 100%;
     height:120px;
     float: left;
 }
 .footer-3{
-    background: aqua;
+    background: white;
     width: 40%;
     height: 300px;
     float: left;
 }
 .footer-31{
-    background: black;
+    background: white;
     width: 100%;
     height: 50px;
 }
 .footer-32{
-    background: blue;
+    background: white;
     width: 100%;
     height: 250px;
 }
 .framer-1{
-    background: gold;
+    background: white;
     height: 200px;
     width: 60%;
     float: left;
   
 }
 .framer-2{
-    background: green;
+    background: white;
     height: 200px;
     width: 40%;
     float: left;
@@ -273,10 +273,7 @@ body{
     
 }
 .word {
-    padding: 30px;
-    
-
-
+    padding: 30px; 
 }
 
 .word-1{
@@ -287,12 +284,31 @@ body{
     padding: 20px;
 }
 .icon-bar{
-    width: 17px;
+    width: 20px;
 height: 24px;
 left: 1175px;
 top: 114px;
 color: #FFCC00;
 float: left;
+margin-top: 20px;
+margin-right: 5px;
+}
+.border_img {
+    border: 6px solid #FFCC00;
+}
+.border-1 {
+    border-left: 5px solid #FFCC00;
+    margin-left: 95px;
+    height: 35px;
+}
+.border-2 {
+    border-left: 5px solid #FFCC00;
+    margin-left: 15px;
+    height: 40px;
+}
+.border-3 {
+    border-left: 5px solid #FFCC00;
+    margin-left: 5px;
 }
 
 
